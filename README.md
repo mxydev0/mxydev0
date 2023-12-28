@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mxydev0/mxydev0/main/snake.yml" alt="Snake animation" />
+
 
 ###
 
@@ -38,7 +38,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
